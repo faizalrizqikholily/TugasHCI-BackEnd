@@ -8,14 +8,14 @@
 Anggota Kelompok :  
 
     Tim A :
-       1. Fahreza Dhia Ananto  (ikut diskusi di zoom)
+       1. Fahreza Dhia Ananto  (ikut diskusi di zoom + commit db.py)
        2. Faizal Rizqi Kholily (ikut diskusi di zoom)
        3. Yohannes Kukuh Parlindungan (ikut diskusi di zoom)
   
     Tim B :
-       1. Aditya Nugraha (ikut diskusi di zoom + commit ajpsoadojasdxsad=)
+       1. Aditya Nugraha (ikut diskusi di zoom + commit settings.cfg)
        2. Daniella Natani Budiman (ikut diskusi di zoom)
-       3. Faras Alif Rahman (ikut diskusi di zoom)
+       3. Faras Alif Rahman (ikut diskusi di zoom + commit __init__.py)
   
     Tim C :
        1. Muhammad Tegar Fitriano Jagat (ikut diskusi di zoom)
