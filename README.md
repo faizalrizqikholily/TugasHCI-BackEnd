@@ -21,7 +21,3 @@ Anggota Kelompok :
        1. Muhammad Tegar Fitriano Jagat (ikut diskusi di zoom)
        2. Mukhamad Dichoirin (ikut diskusi di zoom)
        3. Andreas Chandra Bungaran (ikut diskusi di zoom)
-
-[You are now in the page of **Backend Repo**]
-
-[Click here to see our **Frontend Repo**](https://github.com/faizalrizqikholily/TugasHCI-FrontEnd)
